@@ -1,0 +1,12 @@
+{
+  "name": "اسپلیتو",
+  "short_name": "اسپلیتو",
+  "description": "تقسیم هزینه گروهی با ریال و ارز",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f9ff",
+  "theme_color": "#7c5cff",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": []
+}
